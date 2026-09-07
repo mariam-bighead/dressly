@@ -1,0 +1,6 @@
+{
+  "name": "Dress Marketplace - Nigeria Atelier",
+  "description": "Premier Nigerian luxury dress marketplace connecting buyers with top Nigerian fashion ateliers for Aso Ebi, Ankara couture, rich boubous, Adire silk, and evening gowns with 70/30 split and nationwide live delivery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
